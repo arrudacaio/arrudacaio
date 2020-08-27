@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 Self-taught Developer and  Enthusiast of web development technologies.
 
-- ⚡ Currently working with: _Javascript_, TDD, _PostgreSQL_.
+- ⚡ Currently working with: _Javascript_, TDD, _PostgreSQL_ , _NodeJS_.
 - 📫 How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 
 
-<h3>My stars</h3>
+
 <img src="https://github-readme-stats.vercel.app/api?username=arrudacaio&theme=radical">
