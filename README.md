@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # ⚡ Caio Arruda
 
 **Software Engineer** 
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-arruda1313/)
 
 Self-taught Developer and  Enthusiast of web development technologies.
