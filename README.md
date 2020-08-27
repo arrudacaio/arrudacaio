@@ -25,7 +25,7 @@ Self-taught Developer and  Enthusiast of web development technologies.
 
 - ⚡ Currently working with: _Javascript_, TDD, _PostgreSQL_ , _NodeJS_.
 - 📫 How to reach me: _caio.arruda@ccc.ufcg.edu.br_
-
+- 🔭 My last project: https://fiscaliza.netlify.app/ 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=arrudacaio&theme=radical">
