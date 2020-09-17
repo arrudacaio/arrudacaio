@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-arruda1313/)
 
-Self-taught Developer and  Enthusiast of web development technologies.
+Developer at Incodde and  Enthusiast of web development technologies.
 
 - ⚡ Currently working with: _Javascript_, TDD, _PostgreSQL_ , _NodeJS_.
 - 📫 How to reach me: _caio.arruda@ccc.ufcg.edu.br_
