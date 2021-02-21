@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Backend Developer at Incodde and  Enthusiast of web development technologies.
 
-- ⚡ Specializing in: _NodeJS_.
+- ⚡ Specializing in: _NodeJS_ , _Golang_
 - 📫 How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 - 🔭 My last project: https://fiscaliza.netlify.app/ 
 
