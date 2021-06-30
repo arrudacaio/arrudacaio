@@ -26,6 +26,6 @@ Developer at Virtus and  Enthusiast of web development technologies.
 - ⚡ Specializing in: _NodeJS_ , _Golang_
 - 📫 How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 - 🔭 My last project: https://fiscaliza.netlify.app/ 
-
+- 💬 My Dev.to: https://dev.to/arrudacaio
 
 <img src="https://github-readme-stats.vercel.app/api?username=arrudacaio&theme=radical">
