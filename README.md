@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Backend Developer at Trizy and  Enthusiast of web development technologies.
 
-- ⚡ Specializing in: _NodeJS_ , _Golang_
+- ⚡ Technologies: _NodeJS_ , _Golang_, _Typescript_, _Java_, _MySQL_, _Postgres_, _PL/SQL_, _Kafka_
 - 📫 How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 - 🔭 My last project: https://fiscaliza.netlify.app/ 
 - 💬 My Dev.to: https://dev.to/arrudacaio
