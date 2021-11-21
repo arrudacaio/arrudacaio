@@ -31,8 +31,8 @@ Backend Developer at Trizy and  Enthusiast of web development technologies.
 <img src="https://github-readme-stats.vercel.app/api?username=arrudacaio&theme=radical">
 
 ### Detailed information
-Name: Caio Arruda
-Age: 21
-Living in: Campina Grande, Paraíba - Brazil
-Stack: NodeJs - Postgres - PL/SQL / Oracle - Kafk - AWS .
-University: Bsc. Computer Science - UFCG 
+* Name: Caio Arruda
+* Age: 21
+* Living in: Campina Grande, Paraíba - Brazil
+* Stack: NodeJs - Postgres - PL/SQL / Oracle - Kafk - AWS .
+* University: Bsc. Computer Science - UFCG 
