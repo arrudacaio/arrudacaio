@@ -32,7 +32,7 @@ Backend Developer at Trizy and  Enthusiast of web development technologies.
 * University: Bsc. Computer Science - UFCG 
 *  How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 * My last project: https://fiscaliza.netlify.app/ 
-* My Dev.to: https://dev.to/arrudacaio
+* My blog: https://arrudacaio.github.io/mypersonal-blog/
 
 <img src="https://github-readme-stats.vercel.app/api?username=arrudacaio&theme=radical">
 
