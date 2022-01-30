@@ -28,7 +28,7 @@ Backend Developer at Trizy and  Enthusiast of web development technologies.
 * Name: Caio Arruda
 * Age: 21
 * Living in: Campina Grande, Paraíba - Brazil
-* Stack: NodeJs - Postgres - PL/SQL / Oracle - Kafk - AWS .
+* Stack: NodeJs - Postgres - Oracle PL/SQL - MongoDB - Redis  - Docker
 * University: Bsc. Computer Science - UFCG 
 *  How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 * My last project: https://fiscaliza.netlify.app/ 
