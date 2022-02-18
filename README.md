@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-arruda1313/)
 
-Backend Developer at Trizy and  Enthusiast of web development technologies.
+Backend Developer at Pagar.me and  Enthusiast of web development technologies.
 
 ### Detailed information
 --- 
