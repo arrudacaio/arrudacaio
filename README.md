@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # ⚡ Caio Arruda
 
-**Backend Developer** 
+**Software Engineer at Pagar.me** 
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-arruda1313/)
@@ -28,7 +28,7 @@ Software Engineer at Pagar.me and  Enthusiast of web development technologies.
 * Name: Caio Arruda
 * Age: 21
 * Living in: Campina Grande, Paraíba - Brazil
-* Stack: NodeJs - Postgres - Oracle PL/SQL - MongoDB - Redis  - Docker
+* Stack: NodeJs - Postgres - Oracle PL/SQL - MongoDB - Shell Script  - Docker
 * University: Bsc. Computer Science - UFCG 
 *  How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 * My last project: https://fiscaliza.netlify.app/ 
