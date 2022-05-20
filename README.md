@@ -23,16 +23,10 @@ Here are some ideas to get you started:
 
 Software Engineer at Pagar.me and  Enthusiast of web development technologies.
 
-### Detailed information
---- 
-* Name: Caio Arruda
-* Age: 21
-* Living in: Campina Grande, Paraíba - Brazil
-* Stack: NodeJs - Postgres - Oracle PL/SQL - MongoDB - Shell Script  - Docker
-* University: Bsc. Computer Science - UFCG 
+---
+
 *  How to reach me: _caio.arruda@ccc.ufcg.edu.br_
 * My last project: https://fiscaliza.netlify.app/ 
 * My blog: https://arrudacaio.github.io/mypersonal-blog/
 
-<img src="https://github-readme-stats.vercel.app/api?username=arrudacaio&theme=radical">
 
