@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-arruda1313/)
 
-Software Engineer at Pagar.me and  Enthusiast of web development technologies.
+Software Engineer at Pagar.me and focused on distributed systems
 
 ---
 
